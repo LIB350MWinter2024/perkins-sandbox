@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+objectid,Object ID,,
+title,Title,,
+file name,File Name,,
+format,Format,,
+creator,Creator,true,,
+datecreated,Date,,
+description,Description,,
+image_alt_text,Alt Text,,
+subject,Subjects,true,
+location,Location,,
+source,Source,,true,
+citation,Citation,,
+type,Work Type,
+language,Language,,
+rights,Rights Statement,,true
+creativecommons,Creative Commons License,,true
+
